@@ -1,2 +1,2 @@
 # testRepo
-this is practice repo setup 
+this repo for practice 
